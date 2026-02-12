@@ -16,3 +16,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+    echo "Update for Task 7" >> README.mdUpdate for Task 7
